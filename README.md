@@ -75,12 +75,7 @@ me.say_hi()
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=bilalrouane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalrouane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bilalrouane&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/brouane" alt="brouane's 42 stats" /></a>
 
 </div>
 
