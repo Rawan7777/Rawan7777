@@ -7,7 +7,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-rouane-01aa3a372/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal.rouane702@gmail.com)
 [![42 School](https://img.shields.io/badge/1337_%7C_42_Network-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.1337.ma/)
-![Profile Views](https://komarev.com/ghpvc/?username=bilalrouane&label=Profile+Views&color=58a6ff&style=flat-square)
+
+</div>
+
+---
+
+## 📊 1337 Intra Cadet Level
+
+<div align="center">
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/brouane" alt="brouane's 42 stats" /></a>
 
 </div>
 
@@ -67,16 +76,6 @@ me.say_hi()
 
 <div align="center">
   <img src="./skills.svg" alt="Skill Proficiency Bars" />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/brouane" alt="brouane's 42 stats" /></a>
-
 </div>
 
 ---
