@@ -80,6 +80,25 @@ me.say_hi()
 
 ---
 
+## 🌌 GitHub Stats
+
+<div align="center">
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rawan7777&theme=midnight-purple&border_radius=14&border=7B2FBE&ring=C792EA&fire=89DDFF&currStreakLabel=C792EA&sideLabels=a9b1d6&dates=6272a4&background=0d0d1a" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<!-- Contribution Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawan7777&bg_color=0d0d1a&color=C792EA&line=7B2FBE&point=89DDFF&area=true&area_color=7B2FBE&hide_border=true&radius=12" />
+</div>
+
+---
+
 ## 🎯 What I'm Up To
 
 - 🏫 Studying at **[1337](https://www.1337.ma/)** — part of the global **42 Network**
