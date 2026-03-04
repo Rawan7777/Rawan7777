@@ -84,13 +84,23 @@ me.say_hi()
 
 <div align="center">
 
+<a href="https://git.io/awesome-stats-card">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Rawan7777?cardType=level&theme=midnight-purple&preferLogin=true" />
+</a>
+
 <br/><br/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Rawan7777&theme=midnight-purple&border_radius=14&border=7B2FBE&ring=C792EA&fire=89DDFF&currStreakLabel=C792EA&sideLabels=a9b1d6&dates=6272a4&background=0d0d1a" alt="GitHub Streak" />
 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rawan7777&theme=midnight_purple" />
+
+<br/><br/>
+
 </div>
 
----
 
 <!-- Contribution Activity Graph -->
 <div align="center">
