@@ -75,7 +75,7 @@ me.say_hi()
 ## 📈 Skill Proficiency
 
 <div align="center">
-  <img src="./skills.jpg" alt="Skill Proficiency Bars" />
+  <img src="./skill.jpg" alt="Skill Proficiency Bars" />
 </div>
 
 ---
