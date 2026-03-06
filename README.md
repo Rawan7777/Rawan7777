@@ -84,9 +84,7 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://git.io/awesome-stats-card">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Rawan7777?cardType=level&theme=midnight-purple&preferLogin=true" />
-</a>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=nightowl&fontFamily=Anonymous%20Pro&preferLogin=true&Points.Commits=2.8&Points.CommitsToMyRepositories=2">            <img  alt="Rawan777's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Rawan777?cardType=level&theme=nightowl&fontFamily=Anonymous%20Pro&preferLogin=true&Points.Commits=2.8&Points.CommitsToMyRepositories=2" />  </a>
 
 <br/><br/>
 
