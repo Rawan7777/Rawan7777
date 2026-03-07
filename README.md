@@ -89,11 +89,11 @@ me.say_hi()
 <br/><br/>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Rawan7777&theme=midnight-purple&border_radius=14&border=7B2FBE&ring=C792EA&fire=89DDFF&currStreakLabel=C792EA&sideLabels=a9b1d6&dates=6272a4&background=0d0d1a" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RowanSe7en&theme=midnight-purple&border_radius=14&border=7B2FBE&ring=C792EA&fire=89DDFF&currStreakLabel=C792EA&sideLabels=a9b1d6&dates=6272a4&background=0d0d1a" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rawan7777&theme=midnight_purple" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RowanSe7en&theme=midnight_purple" />
 
 <br/><br/>
 
@@ -102,7 +102,7 @@ me.say_hi()
 
 <!-- Contribution Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rawan7777&bg_color=0d0d1a&color=C792EA&line=7B2FBE&point=89DDFF&area=true&area_color=7B2FBE&hide_border=true&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RowanSe7en&bg_color=0d0d1a&color=C792EA&line=7B2FBE&point=89DDFF&area=true&area_color=7B2FBE&hide_border=true&radius=12" />
 </div>
 
 ---
