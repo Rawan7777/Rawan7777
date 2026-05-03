@@ -16,8 +16,8 @@
 
 <div align="center">
 
-<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/brouane" alt="brouane's 42 stats" /></a> -->
-![Batman Badge Card](./badge.svg)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/brouane" alt="brouane's 42 stats" /></a>
+<!--![Batman Badge Card](./badge.svg)-->
 
 </div>
 
