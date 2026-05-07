@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/brouane" alt="brouane's 42 stats" /></a>
+[![brouane's 42 stats](https://badge.mediaplus.ma/darkblue/brouane)](https://github.com/oakoudad/badge42)
 <!--![Batman Badge Card](./badge.svg)-->
 
 </div>
