@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=D91E18&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Bilal+Rouane;Student+%40+1337+%7C+42+Network+%F0%9F%8E%93;C+%7C+Python+%7C+Frontend+Dev;Building+things+from+scratch+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2f32de&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Bilal+Rouane;Student+%40+1337+%7C+42+Network+%F0%9F%8E%93;C+%7C+Python+%7C+Frontend+Dev;Building+things+from+scratch+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -10,8 +10,8 @@
 
 <br/>
 
-![Profile Views](https://img.shields.io/badge/status-online-D91E18?style=flat-square&labelColor=0D0D0D)
-![Focus](https://img.shields.io/badge/focus-systems%20%2F%20frontend-D91E18?style=flat-square&labelColor=0D0D0D)
+![Profile Views](https://img.shields.io/badge/status-online-2f32de?style=flat-square&labelColor=0D0D0D)
+![Focus](https://img.shields.io/badge/focus-systems_programming-2f32de?style=flat-square&labelColor=0D0D0D)
 
 </div>
 
