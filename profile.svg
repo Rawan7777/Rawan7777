@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Bilal Rouane — profile.sh --live">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="~ whoami — profile.sh --live">
 <defs>
 <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="10s" repeatCount="indefinite"/></stop>
@@ -26,7 +26,7 @@
 <circle cx="30" cy="25.0" r="5.5" fill="#ff5f56"/>
 <circle cx="50" cy="25.0" r="5.5" fill="#ffbd2e"/>
 <circle cx="70" cy="25.0" r="5.5" fill="#27c93f"/>
-<text x="590.0" y="29.0" text-anchor="middle" font-size="12" fill="#94A3B8">bilal.rouane702@gmail.com - % ./profile.sh --live</text>
+<text x="590.0" y="29.0" text-anchor="middle" font-size="12" fill="#94A3B8">~ whoami ./profile.sh --live</text>
 <text x="38" y="74" font-size="10" letter-spacing="3" fill="#475569">VISUAL.MAP</text>
 <rect x="36" y="84" width="400" height="492" rx="10" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.45" filter="url(#glow3)"/>
 <rect x="36" y="84" width="400" height="492" rx="10" fill="#0A101F" stroke="rgba(34,211,238,0.35)"/>
@@ -17164,7 +17164,7 @@
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.90s" fill="freeze"/><text x="470" y="166" font-size="14" xml:space="preserve"><tspan fill="#94A3B8">- About Me </tspan><tspan fill="rgba(148,163,184,0.35)">------------------------------------------------</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.02s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.02s" fill="freeze"/><text x="470" y="194" font-size="14" xml:space="preserve"><tspan fill="#22D3EE">Name</tspan><tspan fill="rgba(148,163,184,0.45)">......................</tspan><tspan x="700" fill="#F8FAFC" font-weight="600">Bilal Rouane</tspan></text></g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.14s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.14s" fill="freeze"/><text x="470" y="222" font-size="14" xml:space="preserve"><tspan fill="#22D3EE">School</tspan><tspan fill="rgba(148,163,184,0.45)">....................</tspan><tspan x="700" fill="#F8FAFC" font-weight="600">1337 — 42 Network 🎓</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.14s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.14s" fill="freeze"/><text x="470" y="222" font-size="14" xml:space="preserve"><tspan fill="#22D3EE">School</tspan><tspan fill="rgba(148,163,184,0.45)">....................</tspan><tspan x="700" fill="#F8FAFC" font-weight="600">1337 — 42 Network / UM6P Rabat🎓</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.26s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.26s" fill="freeze"/><text x="470" y="250" font-size="14" xml:space="preserve"><tspan fill="#22D3EE">Grade</tspan><tspan fill="rgba(148,163,184,0.45)">.....................</tspan><tspan x="700" fill="#F8FAFC" font-weight="600">Cadet</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.38s" fill="freeze"/><text x="470" y="278" font-size="14" xml:space="preserve"><tspan fill="#94A3B8">- Tech Stack </tspan><tspan fill="rgba(148,163,184,0.35)">----------------------------------------------</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.50s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="-8 0;0 0" dur="0.4s" begin="1.50s" fill="freeze"/><text x="470" y="306" font-size="14" xml:space="preserve"><tspan fill="#22D3EE">Programming Languages</tspan><tspan fill="rgba(148,163,184,0.45)">.....</tspan><tspan x="700" fill="#F8FAFC" font-weight="600">C · C++ · Python · Java</tspan></text></g>
