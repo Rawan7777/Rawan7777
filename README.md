@@ -18,7 +18,7 @@
 
 <div align="center">
 
-Studying at **1337**, part of the global **42 Network** — spending most of my time deep in **C** and low-level, systems-oriented programming, while building fluency in **Python** and sharpening frontend skills with **JavaScript**. Comfortable on **Linux**, and I like building things from scratch rather than relying on shortcuts.
+Studying at **1337**, part of the global **42 Network** — building projects with **C** and **Python**, exploring low-level and systems-oriented programming, and sharpening my frontend skills with **JavaScript**. Comfortable on **Linux**, and I enjoy building things from scratch rather than relying on shortcuts.
 
 </div>
 
@@ -96,13 +96,6 @@ Studying at **1337**, part of the global **42 Network** — spending most of my 
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=RowanSe7en&theme=algolia"
-    alt="GitHub Streak"
-  />
-</a>
-
 <br/><br/>
 
 <img
@@ -112,20 +105,8 @@ alt="GitHub Profile Summary"
 
 <br/><br/>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=RowanSe7en&bg_color=0D0D0D&color=0A1122&line=0A1122&point=0A1122&area=true&area_color=0A1122&hide_border=true&radius=12"
-alt="GitHub Contribution Graph"
-/>
 
 </div>
-
-## 🎯 What I'm Up To
-
-* 🏫 Building projects at **[1337](https://www.1337.ma/)** using **C** and **Python**
-* 🌐 Exploring full-stack development by building **frontend and backend interfaces**
-* 🐧 Diving deeper into **Linux** internals and systems programming
-
-<br/>
 
 ---
 
