@@ -5,7 +5,7 @@
 
 <img src="./profile.svg" alt="Bilal Rouane — Live Terminal Profile Card" width="850"/>
 
-<br/>
+<br><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-rouane-01aa3a372/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal.rouane702@gmail.com)
@@ -22,8 +22,6 @@ Studying at **1337**, part of the global **42 Network** — building projects wi
 
 </div>
 
-<br/>
-
 ## 📊 1337 Intra Cadet Level
 
 <div align="center">
@@ -31,8 +29,6 @@ Studying at **1337**, part of the global **42 Network** — building projects wi
 [![brouane's 42 stats](https://badge.mediaplus.ma/darkblue/brouane)](https://github.com/oakoudad/badge42)
 
 </div>
-
-<br/>
 
 ## 🛠️ Languages & Tools
 
@@ -53,8 +49,6 @@ Studying at **1337**, part of the global **42 Network** — building projects wi
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
-
-<br/>
 
 ## 📈 Skill Proficiency
 
